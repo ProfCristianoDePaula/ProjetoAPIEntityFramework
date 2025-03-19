@@ -1,0 +1,6 @@
+@ProjetoAPIEntityFramework_HostAddress = http://localhost:5237
+
+GET {{ProjetoAPIEntityFramework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

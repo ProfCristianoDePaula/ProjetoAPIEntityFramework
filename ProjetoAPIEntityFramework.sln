@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoAPIEntityFramework", "ProjetoAPIEntityFramework.csproj", "{BCDD2BB2-3CCC-4141-BCA5-4F90AD30BFAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDD2BB2-3CCC-4141-BCA5-4F90AD30BFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDD2BB2-3CCC-4141-BCA5-4F90AD30BFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDD2BB2-3CCC-4141-BCA5-4F90AD30BFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDD2BB2-3CCC-4141-BCA5-4F90AD30BFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
